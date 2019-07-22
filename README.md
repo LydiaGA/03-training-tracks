@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Lydia Gashawtena
 
-Track Name: 
+Track Name: Web Backend Engineering
 
-Track Description: 
+Track Description: Web Backend Engineering with NodeJS
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
